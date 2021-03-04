@@ -1,0 +1,12 @@
+Metro ID,Compartment No,Load,Direction,Station Name,Load2,Load3
+1A,1,1000,UP,Noapara,1050,1025
+2B,2,1100,DN,DumDum,1150,1125
+3C,5,1200,UP,Sovabazar,1250,1225
+4D,3,1300,UP,Shyambazar,1350,1325
+5E,4,1400,UP,DumDum,1450,1425
+6F,2,1500,DN,Tollygunge,1550,1525
+7G,1,1600,DN,Garia,1650,1625
+8H,4,1700,UP,Noapara,1750,1725
+9I,5,1800,DN,Chadni,1850,1825
+10J,4,1900,UP,Tollygunge,1950,1925
+11K,3,2000,DN,Shyambazar,2050,2025
